@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="photo">
+    <file>off_volume.png</file>
+    <file>one_volume.png</file>
+    <file>two_volume.png</file>
+    <file>three_volume.png</file>
+
+    <file>random_off.png</file>
+    <file>random_on.png</file>
+    <file>while_off.png</file>
+    <file>while_on.png</file>
+    <file>while_on_one.png</file>
+
+  </qresource>
+</RCC>
